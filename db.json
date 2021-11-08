@@ -2,7 +2,7 @@
     "quiz_one" : [
         {
           "id":1,
-          "questionType": "text_input",
+          "questionType": "complete_the_sentence",
           "questionText": "HTML stands for _________________________",
           "answerFieldId": "answer_to_question",
           "correctAnswer": "Hyper Text Markup Language",
@@ -46,7 +46,7 @@
         },
         {
             "id":6,
-        "questionType": "text_input",
+        "questionType": "complete_the_sentence",
         "questionText": "HTML stands for _________________________",
         "answerFieldId": "answer_to_question",
         "correctAnswer": "Hyper Text Markup Language",
@@ -149,7 +149,7 @@
         },
         {
              "id":16,
-        "questionType": "text_input",
+        "questionType": "complete_the_sentence",
         "questionText": "CSS stands for __________________.",
         "answerFieldId": "answer_to_question",
         "correctAnswer": "Cascading Style Sheets",

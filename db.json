@@ -18,7 +18,7 @@
         },
         {
            "id":3,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "How can you make a bulleted list with numbers?",
         "options": [
           "<dl>",
@@ -54,7 +54,7 @@
         },
         {
            "id":7,
-          "questionType": "multiple_Choice",
+          "questionType": "multiple_choice",
           "questionText": "What file extension should HTML files have?",
           "options": [
             ".php",
@@ -74,7 +74,7 @@
         },
         {
            "id":9,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "In HTML, which tag is used to create paragraphs?",
         "options": [
           "<p>",
@@ -86,7 +86,7 @@
         },
         {
           "id":10,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "Assuming that orange.jpg cannot be found, what will be displayed when a page with this code is loaded in the browser?    <img src=\"orange.jpg\"  alt=\"Orange\" />",     
         "options": [
           "Nothing",
@@ -107,7 +107,7 @@
         },
         {
              "id":12,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "Which one of the following tags creates a table row?",
         "options": [
           "<tr>",
@@ -119,7 +119,7 @@
         },
         {
            "id":13,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "When using the padding property; are you allowed to use negative values?",
         "options": [
           "Yes",
@@ -129,7 +129,7 @@
         },
         {
            "id":14,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "Which one of these is in the correct HTML format for referring to an external style sheet?",
         "options": [
           "<stylesheet>mystyle.css</stylesheet>",
@@ -157,7 +157,7 @@
         },
         {
             "id":17,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "How would you select an element with id 'demo'?",
         "options": [
           "#demo",
@@ -169,7 +169,7 @@
         },
         {
             "id":18,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "Which CSS property controls the text size?",
         "options": [
           "text-style",
@@ -181,7 +181,7 @@
         },
         {
             "id":19,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "How do you insert a comment in a CSS file?",
         "options": [
           "'this is a comment'",
@@ -193,7 +193,7 @@
         },
         {
               "id": 20,
-        "questionType": "multiple_Choice",
+        "questionType": "multiple_choice",
         "questionText": "In CSS how do you make a list that lists its items with squares?",
         "options": [
           "list-type: square;",

@@ -136,7 +136,7 @@
           "<style src=\"mystyle.css\">",
           "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
           "<styles>mystyle.css</stylesheet>"],
-        "correctAnswer": "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">  ",
+        "correctAnswer": "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
         "feedback": "<link rel= \"stylesheet\" type= \"text/css\" href= \"mystyle.css\">  is in the correct format."
         },
         {

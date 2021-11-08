@@ -119,7 +119,7 @@
         },
         {
            "id":13,
-        "questionType": "multiple_choice",
+        "questionType": "yes_no",
         "questionText": "When using the padding property; are you allowed to use negative values?",
         "options": [
           "Yes",
